@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-wlif8y.salamkita.shop/sitemap.xml
